@@ -40,7 +40,7 @@ cargo install --path .
 ```bash
 rstat <FILE> [json, table]
 ```
-### As the name says print it as table will print table json is json leaving it empty will print it as stat does.
+ As the name says print it as table will print table json is json leaving it empty will print it as stat does.
 
 ## Future work. 📡
 - Improve Error handling
